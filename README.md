@@ -16,3 +16,11 @@
     <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" height="40" width="52" alt="git logo"  />
     <img src="https://www.svgrepo.com/show/35001/github.svg" height="40" width="52" alt="github logo"  />
 </div>
+
+
+
+
+
+No dudes en contactarme ante cualquier duda!
+
+https://www.linkedin.com/in/leankrn/
