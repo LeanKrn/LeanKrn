@@ -1,5 +1,4 @@
-<h1> Leandro Kronsteiner</h1>
-<hr>
+<h1 align="center"> Leandro Kronsteiner</h1>
 <div align="center">
     <img src="https://res.cloudinary.com/dtfppvicy/image/upload/v1678810170/BannerGit_hpl0os.png" alt="LeanKrn"  />
 </div>
