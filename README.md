@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Lean-krn
 
 <div align="left">
