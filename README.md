@@ -11,7 +11,7 @@
 
 
 <hr>
-<div>
-    <a href="[https://www.linkedin.com/in/liam-perez-lupia-33a189257/](https://www.linkedin.com/in/leankrn/)"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" align="center" ></img></a>
+<div  align="center"  >
+    <a href="[https://www.linkedin.com/in/liam-perez-lupia-33a189257/](https://www.linkedin.com/in/leankrn/)"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"></img></a>
     <h3 align="center">Leandrotomask@gmail.com</h3>
 </div>
